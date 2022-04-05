@@ -1,0 +1,15 @@
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\bin\Debug\net5.0\Cars.DAL.deps.json
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\bin\Debug\net5.0\Cars.DAL.runtimeconfig.json
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\bin\Debug\net5.0\Cars.DAL.runtimeconfig.dev.json
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\bin\Debug\net5.0\Cars.DAL.dll
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\bin\Debug\net5.0\Cars.DAL.pdb
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\obj\Debug\net5.0\Cars.DAL.csproj.AssemblyReference.cache
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\obj\Debug\net5.0\Cars.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\obj\Debug\net5.0\Cars.DAL.AssemblyInfoInputs.cache
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\obj\Debug\net5.0\Cars.DAL.AssemblyInfo.cs
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\obj\Debug\net5.0\Cars.DAL.csproj.CoreCompileInputs.cache
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\obj\Debug\net5.0\Cars.DAL.dll
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\obj\Debug\net5.0\refint\Cars.DAL.dll
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\obj\Debug\net5.0\Cars.DAL.pdb
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\obj\Debug\net5.0\Cars.DAL.genruntimeconfig.cache
+C:\Users\XAN\Documents\GitHub\cars\Cars.DAL\obj\Debug\net5.0\ref\Cars.DAL.dll

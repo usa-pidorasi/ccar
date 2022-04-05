@@ -1,0 +1,15 @@
+C:\Users\XAN\Documents\GitHub\cars\qqq\bin\Debug\net5.0\Cars.BLL.deps.json
+C:\Users\XAN\Documents\GitHub\cars\qqq\bin\Debug\net5.0\Cars.BLL.dll
+C:\Users\XAN\Documents\GitHub\cars\qqq\bin\Debug\net5.0\Cars.BLL.pdb
+C:\Users\XAN\Documents\GitHub\cars\qqq\bin\Debug\net5.0\Cars.DAL.dll
+C:\Users\XAN\Documents\GitHub\cars\qqq\bin\Debug\net5.0\Cars.DAL.pdb
+C:\Users\XAN\Documents\GitHub\cars\qqq\obj\Debug\net5.0\Cars.BLL.csproj.AssemblyReference.cache
+C:\Users\XAN\Documents\GitHub\cars\qqq\obj\Debug\net5.0\Cars.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XAN\Documents\GitHub\cars\qqq\obj\Debug\net5.0\Cars.BLL.AssemblyInfoInputs.cache
+C:\Users\XAN\Documents\GitHub\cars\qqq\obj\Debug\net5.0\Cars.BLL.AssemblyInfo.cs
+C:\Users\XAN\Documents\GitHub\cars\qqq\obj\Debug\net5.0\Cars.BLL.csproj.CoreCompileInputs.cache
+C:\Users\XAN\Documents\GitHub\cars\qqq\obj\Debug\net5.0\Cars.BLL.csproj.CopyComplete
+C:\Users\XAN\Documents\GitHub\cars\qqq\obj\Debug\net5.0\Cars.BLL.dll
+C:\Users\XAN\Documents\GitHub\cars\qqq\obj\Debug\net5.0\refint\Cars.BLL.dll
+C:\Users\XAN\Documents\GitHub\cars\qqq\obj\Debug\net5.0\Cars.BLL.pdb
+C:\Users\XAN\Documents\GitHub\cars\qqq\obj\Debug\net5.0\ref\Cars.BLL.dll
